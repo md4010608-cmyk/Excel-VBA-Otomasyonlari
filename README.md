@@ -1,5 +1,7 @@
 # Excel-VBA-Otomasyonlari
-Excel VBA, C# ve otomasyon projelerim.
+Bilgisayar Programcılığı mezunu olarak geliştirdiğim Excel VBA, C# ve operasyon otomasyonu projelerini bu depoda paylaşıyorum.
+
+🌐 Web Sitem: https://mustafademir.org
 # Mustafa Demir
 
 ## Hakkımda
