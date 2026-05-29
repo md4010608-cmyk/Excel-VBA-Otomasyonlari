@@ -32,6 +32,4 @@ https://mustafademir.org
 
 ![Devamsizlik](images/devamsizlik-vba.jpg)
 
-## Kişisel Web Sitesi
 
-![Web Sitesi](images/mustafa-demir.png)
